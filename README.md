@@ -10,7 +10,7 @@
 
 ## Writing & Guides | Escritura y guías
 
-### Original titles in Spanish | Títulos originales en español
+### Spanish-language content | Contenido en español
 
 - **[Privacidad en transacciones con stablecoins y compliance](https://cyberprevention.academiadebatesociedad.com/privacidad-en-transacciones-con-stablecoins-y-compliance/)** — septiembre 2026  
   *EN: Privacy in Stablecoin Transactions and Compliance.*
@@ -22,6 +22,8 @@
   *EN: Spanish translation of “Programming ZKPs: From Zero to Hero”.*
 - **[Intro y comparación: ZK vs FHE vs MPC](https://seedlatam.gitbook.io/seedlatam/avanzado-topicos/privacidad/intro-y-comparacion-zk-vs-fhe-vs-mpc)** — junio 2025  
   *EN: Introduction and Comparison: ZK vs FHE vs MPC.*
+- **EN (title):** [Fully Homomorphic Encryption](https://hackmd.io/@Y_gnYtUbTKifBLLd9FCZWQ/SJu4JxMpR) — abril 2025  
+  *ES (traducción del título): Cifrado totalmente homomórfico. El artículo está en español.*
 - **[Actualización del Nodo Nym](https://medium.com/@bwnym/actualizaci%C3%B3n-del-nodo-nym-1d6561b2ae71)** — mayo 2024  
   *EN: Nym Node Update.*
 - **[Guía para montar un nodo Gateway de NYM](https://medium.com/@bwnym/gu%C3%ADa-para-montar-un-nodo-gateway-de-nym-3893bf07dfe1)** — abril 2024  
@@ -31,16 +33,14 @@
 - **[Mover la Mixnode a una nueva VPS](https://medium.com/@bwnym/migraci%C3%B3n-mixnode-a-una-nueva-vps-990abe1e15d9)** — abril 2024  
   *EN: Moving a Mixnode to a New VPS.*
 
-### Original titles in English | Títulos originales en inglés
+### English-language content | Contenido en inglés
 
 - **[Complete Guide: NEAR Protocol Validator Node on Testnet](https://hackmd.io/@Y_gnYtUbTKifBLLd9FCZWQ/S1rSG0dMZe)** — December 2025  
   *ES: Guía completa: nodo validador de NEAR Protocol en Testnet.*
-- **[Fully Homomorphic Encryption](https://hackmd.io/@Y_gnYtUbTKifBLLd9FCZWQ/SJu4JxMpR)** — April 2025  
-  *ES: Cifrado totalmente homomórfico.*
 
 ## Talks & Events | Charlas y eventos
 
-### Original titles in Spanish | Títulos originales en español
+### Spanish-language talks | Charlas en español
 
 - **[Ethereum en tu bolsillo: la guía práctica de wallets](https://www.instagram.com/ethecuador/p/DN6HiZuEfiy/?img_index=4)** — agosto 2025  
   *EN: Ethereum in Your Pocket: A Practical Guide to Wallets.*
