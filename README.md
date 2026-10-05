@@ -44,6 +44,8 @@
 
 - **[Ethereum en tu bolsillo: la guía práctica de wallets](https://www.instagram.com/ethecuador/p/DN6HiZuEfiy/?img_index=4)** — agosto 2025  
   *EN: Ethereum in Your Pocket: A Practical Guide to Wallets.*
+- **[Privacy Pools. Privacidad con transparencia selectiva](https://www.instagram.com/ethecuador/p/DMtRIKtMQJT/?img_index=3)** — julio 2025  
+  *Título bilingüe; charla en español. EN: Privacy Pools: Privacy with Selective Transparency.*
 - **[Bitcoin y las Tecnologías que lo hace Posible: Unviaje por el Futuro del Dinero](https://www.instagram.com/flisolguayaquil/p/DKSxi5Su3G0/?img_index=3)** — mayo 2025  
   *EN: Bitcoin and the Technologies That Make It Possible: A Journey into the Future of Money.*
 - **[Bitcoin, desafio a la censura como sistema de pagos](https://www.instagram.com/pythonecuador/p/CzlyVqJr7iV/)** — noviembre 2023  
@@ -53,7 +55,3 @@
 - **[DAppNode: Corre tu propio nodo con software libre](https://www.instagram.com/p/DX7-Y4mMKcc/)**  
   *EN: DAppNode: Run Your Own Node with Open-Source Software.*
 
-### Bilingual title | Título bilingüe
-
-- **[Privacy Pools. Privacidad con transparencia selectiva](https://www.instagram.com/ethecuador/p/DMtRIKtMQJT/?img_index=3)** — julio 2025  
-  *EN: Privacy Pools: Privacy with Selective Transparency.*
