@@ -19,7 +19,7 @@
 - **[Aplicaciones prácticas de las pruebas de conocimiento-cero en el mundo real](https://hackmd.io/@Y_gnYtUbTKifBLLd9FCZWQ/H1XUS6Ulxl)** — agosto 2025  
   *EN: Practical Applications of Zero-Knowledge Proofs in the Real World.*
 - **Traducción al español de «Programando ZKPs: De cero a héroe»** — julio 2025  
-  *EN: Spanish translation of “Programming ZKPs: From Zero to Hero”.* (No URL provided.)
+  *EN: Spanish translation of “Programming ZKPs: From Zero to Hero”.*
 - **[Intro y comparación: ZK vs FHE vs MPC](https://seedlatam.gitbook.io/seedlatam/avanzado-topicos/privacidad/intro-y-comparacion-zk-vs-fhe-vs-mpc)** — junio 2025  
   *EN: Introduction and Comparison: ZK vs FHE vs MPC.*
 - **[Actualización del Nodo Nym](https://medium.com/@bwnym/actualizaci%C3%B3n-del-nodo-nym-1d6561b2ae71)** — mayo 2024  
